@@ -154,7 +154,7 @@
     "lefthook": "^2.1.14",
     "miniflare": "^4.20260730.0",
     "nitro": "^3.0.260610-beta",
-    "semantic-release": "^25.0.9",
+    "semantic-release": "^26.0.1",
     "typescript": "^5.9.3",
     "vite": "^8.3.1",
     "vitest": "^5.0.2",
